@@ -16,8 +16,8 @@ On s'intéresse donc à deux VA :
 
 Pour cela, on dispose des informations suivantes à propos des adultes en France :
 
-- la taille des hommes suit une loi gaussienne de moyenne 175cm, d'écart type 4cm
-- la taille des femmes suit une loi gaussienne de moyenne 163cm, d'écart type 3.666cm
+- la taille des hommes suit une loi gaussienne de moyenne 175cm, d'écart type 6cm
+- la taille des femmes suit une loi gaussienne de moyenne 163cm, d'écart type 5.5cm
 
 Il y a 52% de femmes parmi les adultes en France.
 
