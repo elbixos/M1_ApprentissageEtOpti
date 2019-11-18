@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 ## TP 1 : Manipulation des probabilités
 
 Ce TP sera fait sous Matlab (sous windows à la fac).
